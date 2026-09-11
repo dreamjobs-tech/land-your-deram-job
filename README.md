@@ -36,6 +36,7 @@
 - No tables or graphics
 - Keywords from job description
 - PDF format
+- [ResumeAI free ATS checker](https://withresumeai.com/ats-checker) — 3 checks/day anonymous, 10/day free account; State of ATS 2026 (738/704; Workday 37.9%)
 
 ## Cover Letter Framework
 
