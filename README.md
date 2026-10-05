@@ -22,6 +22,7 @@
   - Cover letter generator
   - Application tracking
   - Resume tailoring for specific jobs
+- [Keel](https://github.com/KeelDev-tech/keel) - Open-core job-application autopilot with a truthfulness contract: truthful resume tailoring, a canonical answer bank, prescreen gates; it never auto-submits.
 
 ## Resume Tips
 
