@@ -22,6 +22,11 @@
   - Cover letter generator
   - Application tracking
   - Resume tailoring for specific jobs
+- [JobEmerge](https://www.jobemerge.work) - AI career tool with:
+  - Job-fit testing against a target job description
+  - Resume translation into 19 languages
+  - Markdown resume editing and export
+  - Text-based mock interviews and application tracking
 
 ## Resume Tips
 
